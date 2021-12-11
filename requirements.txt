@@ -1,0 +1,4 @@
+gpio==0.3.0
+mfrc522==0.0.7
+RPi.GPIO==0.7.0
+spidev==3.5
